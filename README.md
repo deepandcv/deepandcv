@@ -31,6 +31,8 @@ Python, pandas, Numpy, PowerBi, Selinium, Tableau, Excel, Streamlit ...
 <!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 
+[![](https://visitcount.itsvg.in/api?id=deepandcv&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--
 **deepandcv/deepandcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
